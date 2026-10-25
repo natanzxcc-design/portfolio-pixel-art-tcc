@@ -18,8 +18,8 @@ Artes utilizadas na composição dos ambientes do jogo, incluindo cenários comp
 
 ![Exemplo de cenário do jogo](./01_Artes_TCC/01_Cenarios/cenario_do_jogo/cena%201.png)
 
-- [Ver cenários do jogo](./01_Artes_TCC/01_Cenarios/cenario_do_jogo/)
-- [Ver elementos dos cenários](./01_Artes_TCC/01_Cenarios/Elementos%20do%20cenario/)
+- [Mapa_completo.png](./01_Artes_TCC/01_Cenarios/cenario_do_jogo/)
+- [checkpoin_arvoret.gif](./01_Artes_TCC/01_Cenarios/Elementos%20do%20cenario/)
 
 ### 2. Personagens e animações
 
