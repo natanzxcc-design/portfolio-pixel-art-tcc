@@ -16,7 +16,8 @@ O projeto original pode ser acessado aqui: [Reminiscense of Shatters — reposit
 
 Artes utilizadas na composição dos ambientes do jogo, incluindo cenários completos e elementos individuais.
 
-![Exemplo de cenário do jogo](<img width="576" height="288" alt="Área_floresta_01" src="https://github.com/user-attachments/assets/8bcdbdf0-0bbe-468b-b3d4-dbd23d86a166" />
+![Exemplo de cenário do jogo](<img 
+width="576" height="288" alt="Área_floresta_01" src="https://github.com/user-attachments/assets/8bcdbdf0-0bbe-468b-b3d4-dbd23d86a166" />
 )
 
 - [Mapa_completo.png](<img width="7960" height="1333" alt="Mapa_completo" src="https://github.com/user-attachments/assets/286085b5-c47d-446e-b611-404bbdf7c830" />
@@ -44,7 +45,7 @@ Personagens apresentados por meio de suas artes e animações, mostrando diferen
 
 **Personagem 03**
 
-![Animação do personagem 03](<img width="384" height="512" alt="Personagem_03_Idle" src="https://github.com/user-attachments/assets/9f95905c-f1c3-4d60-9105-6d7cec1a75d6" />
+![Animação do personagem 03](<img  width="384" height="512" alt="Personagem_03_Idle" src="https://github.com/user-attachments/assets/9f95905c-f1c3-4d60-9105-6d7cec1a75d6" />
 )
 
 [Ver artes e animações do personagem 03](./01_Artes_TCC/02_Personagens/Personagem_03/)
